@@ -27,6 +27,7 @@
 - /var/www/html
 
 ![alt text](image-2.png)
+
 4. Untuk solusi permission denied pada folder /var/www/html
 - Ubah kepemilikan folder
 - Mengubah folder /var/www/html agar bisa diakses oleh user 'ubuntu'
