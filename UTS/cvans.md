@@ -13,6 +13,7 @@ UJIAN TENGAH SEMESTER (Deploy Curriculum Vitae (CV) atau Portofolio Dalam bentuk
 ![alt text](image-3.png)
 
 5. Putty
+
 ![alt text](image-4.png)
 
 6. Status Nginx
